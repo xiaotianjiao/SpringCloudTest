@@ -55,4 +55,6 @@ public class PaymentService {
         return "id不能为负数，请稍后再试";
     }
 
+    //模拟添加一个业务
+
 }
